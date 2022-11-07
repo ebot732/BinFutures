@@ -115,6 +115,13 @@ E-Bot поставляется по принципу «как есть». Ни�
 
 ![Screenshot](https://github.com/ebot732/ebotFuture/blob/main/Screenshot_20221010-203218_JuiceSSH.jpg)
 
+====================================================================================================================================
+
+![Screenshot](https://github.com/ebot732/ebotFuture/blob/main/Screenshot_20221107-214115_Telegram.jpg)
+
+====================================================================================================================================
+
+![Screenshot](https://github.com/ebot732/ebotFuture/blob/main/Screenshot_20221107-214119_Telegram.jpg)
 
  
 
