@@ -59,9 +59,9 @@ aver_perc*k_step + step_aver,
 - white_list: список пар, которые бот будет использовать для анализа и выбора подходящей для открытия сделки (вводится по одной паре командой -w_list_add),
 - api_key: открытый api-ключ от биржи с разрешением на фьючерсную торговлю,
 - api_secret: секретный api-ключ от биржи,
-- botID- api телеграм бота полученный от @BotFather (пример: 5656544920:AAHrXhjhujhfdf7RPJlheqJXEulBW),
-- channelID- ID канала telegram бота для уведомлений, полученное от @userinfobot (пример: -1001656543985),
-- tguserid- ID основного user-a телеграм, полученное от @userinfobot (пример: 346549043)
+- botID: api телеграм бота полученный от @BotFather (пример: 5656544920:AAHrXhjhujhfdf7RPJlheqJXEulBW),
+- channelID: ID канала telegram бота для уведомлений, полученное от @userinfobot (пример: -1001656543985),
+- tguserid: ID основного user-a телеграм, полученное от @userinfobot (пример: 346549043)
 
 При изменении marginType, direction, leverage убедитесь, что нет открытых позиций
 
