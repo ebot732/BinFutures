@@ -1,4 +1,6 @@
 # ebotFuture
+Trading bot for exchange Binance.
+
 E-Bot Future.
 Бот для торговли на Binance Futures USDⓈ-M с использованием стратегии мартингейла (усреднения) и выбором растущей (падающей) монеты. Может работать и в LONG и в SHORT.
 
