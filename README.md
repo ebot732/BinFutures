@@ -89,7 +89,7 @@ BinFutures поставляется по принципу «как есть». 
 Установка и запуск BinFutureы:
 - на VPS-сервере ubuntu 20 создайте новую папку, например, BinFutures (mkdir BinFutures)
 - зайдите в эту папку (cd BinFutures)
-- перенесите в эту папку файл бота BinFutures-12 (или скачайте с github командой: wget https://github.com/ebot732/BinFutures/releases/download/ebotFuture-12/BinFutures-12)
+- перенесите в эту папку файл бота BinFutures-12 (или скачайте с github командой: wget https://github.com/ebot732/BinFutures/releases/download/BinFutures-12/BinFutures-12)
 - откройте screen-сессию (например: screen -S BinFutures)
 - дайте права запуска файлу (команда: chmod 755 BinFutures-12)
 - запустите BinFutures (команда: ./BinFutures-12)
