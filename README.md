@@ -107,23 +107,23 @@ BinFutures поставляется по принципу «как есть». 
 
              Скриншоты
 
-![Screenshot](https://github.com/ebot732/BinFutures/blob/main/screenshots/Screenshot_20221124-185022_Telegram.jpg)
+![Screenshot](https://github.com/ebot732/BinFutures/blob/main/screenshots/Screenshot_20230513-105645.png)
 
 ====================================================================================================================================
 
-![Screenshot](https://github.com/ebot732/BinFutures/blob/main/screenshots/Screenshot_20230308-120835.png)
+![Screenshot](https://github.com/ebot732/BinFutures/blob/main/screenshots/Screenshot_20230513-110343.png)
 
 ====================================================================================================================================
 
-![Screenshot](https://github.com/ebot732/BinFutures/blob/main/screenshots/Screenshot_20230308-123701.png)
+![Screenshot](https://github.com/ebot732/BinFutures/blob/main/screenshots/Screenshot_20230513-110650.png)
 
 ====================================================================================================================================
 
-![Screenshot](https://github.com/ebot732/BinFutures/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-05%2008-16-08.png)
+![Screenshot](https://github.com/ebot732/BinFutures/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-05-13%2010-51-42.png)
 
 ====================================================================================================================================
 
-![Screenshot](https://github.com/ebot732/BinFutures/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-08%2012-13-27.png)
+![Screenshot](https://github.com/ebot732/BinFutures/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-05-13%2010-52-01.png)
 
 ====================================================================================================================================
 
