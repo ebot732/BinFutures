@@ -44,7 +44,7 @@ BinFutures выбирает монету, выросшую за выбранны
 - stop_loss: на сколько % должен измениться курс монеты от средней цены входа для закрытия в минус,
 - used_stop_loss: включить использование stop_loss для закрытия в минус (да/нет),
 - pause_after_stop_loss: ставить E-Bot на паузу после срабатывания stop_loss и закрытия позиции по рынку или продолжить работу,
-- completed: поставить бота на паузу при закрытии очередной сделки (1-вкл/0-выкл),
+- completed: поставить бота на паузу при закрытии очередной сделки, если в работе не пара из super_asset, (1-вкл/0-выкл),
 - kline_interval: интервал свечей для анализа (1m, 3m, 5m, 15m, 30m, 1h, 2h, 4h, 8h, 12h, 1d, 3d),
 - interval_limit: какое количество свечей анализируем,
 - super_asset: пара для бесконечной торговли независимо от delta_start, при этом пары из white_list не будут работать (вводится командой -super_asset_add в формате ETHUSDT),
@@ -89,10 +89,10 @@ BinFutures поставляется по принципу «как есть». 
 Установка и запуск BinFutures:
 - на VPS-сервере ubuntu 20 создайте новую папку, например, BinFutures (mkdir BinFutures)
 - зайдите в эту папку (cd BinFutures)
-- перенесите в эту папку файл бота BinFutures-14 (или скачайте с github командой: wget https://github.com/ebot732/BinFutures/releases/download/BinFutures-14/BinFutures-14)
+- перенесите в эту папку файл бота BinFutures-16 (или скачайте с github командой: wget https://github.com/ebot732/BinFutures/releases/download/BinFutures-16/BinFutures-16)
 - откройте screen-сессию (например: screen -S BinFutures)
-- дайте права запуска файлу (команда: chmod 755 BinFutures-14)
-- запустите BinFutures (команда: ./BinFutures-14)
+- дайте права запуска файлу (команда: chmod 755 BinFutures-16)
+- запустите BinFutures (команда: ./BinFutures-16)
 - команда для остановки бота: ctrl+c
 - после запуска бота введите свои параметры: api_key и т.д.
 - откорректируйте, при необходимости, настройки
