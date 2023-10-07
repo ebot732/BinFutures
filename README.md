@@ -72,6 +72,7 @@ BinFutures выбирает монету, выросшую за выбранны
 
 Здесь BinFutures представлен для ознакомления и использования в течении пробного периода до 01 ноября 2023 г.
 Если Вы хотите увеличить время работы до 1/6/12 месяцев: напишите в телеграм, по данным, указанным при запуске BinFutures.
+При использовании бота на тестовой бирже срок работы не ограничен.
 
 Если хотите испытать BinFutures на фьючерсной тестовой бирже Binance- 
 переходите на:
@@ -90,10 +91,10 @@ BinFutures поставляется по принципу «как есть». 
 Установка и запуск BinFutures:
 - на VPS-сервере ubuntu 20 или 22 создайте новую папку, например, BinFutures (mkdir BinFutures)
 - зайдите в эту папку (cd BinFutures)
-- перенесите в эту папку файл бота BinFutures-18 (или скачайте с github командой: wget https://github.com/ebot732/BinFutures/releases/download/BinFutures-18/BinFutures-18)
+- перенесите в эту папку файл бота BinFutures-19 (или скачайте с github командой: wget https://github.com/ebot732/BinFutures/releases/download/BinFutures-19/BinFutures-19)
 - откройте screen-сессию (например: screen -S BinFutures)
-- дайте права запуска файлу (команда: chmod 755 BinFutures-18)
-- запустите BinFutures (команда: ./BinFutures-18)
+- дайте права запуска файлу (команда: chmod 755 BinFutures-19)
+- запустите BinFutures (команда: ./BinFutures-19)
 - команда для остановки бота: ctrl+c
 - после запуска бота введите свои параметры: api_key и т.д.
 - откорректируйте, при необходимости, настройки
