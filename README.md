@@ -120,10 +120,10 @@ BinFutures поставляется по принципу «как есть». 
 Установка и запуск BinFutures:
 - на VPS-сервере ubuntu 20 или 22 создайте новую папку, например, BinFutures (mkdir BinFutures)
 - зайдите в эту папку (cd BinFutures)
-- перенесите в эту папку файл бота BinFutures-20 (или скачайте с github командой: wget https://github.com/ebot732/BinFutures/releases/download/BinFutures-21/BinFutures-21)
+- перенесите в эту папку файл бота BinFutures-20 (или скачайте с github командой: wget https://github.com/ebot732/BinFutures/releases/download/BinFutures-22/BinFutures-22)
 - откройте screen-сессию (например: screen -S BinFutures)
-- дайте права запуска файлу (команда: chmod 755 BinFutures-21)
-- запустите BinFutures (команда: ./BinFutures-21)
+- дайте права запуска файлу (команда: chmod 755 BinFutures-22)
+- запустите BinFutures (команда: ./BinFutures-22)
 - команда для остановки бота: ctrl+c
 - после запуска бота введите свои параметры: api_key и т.д.
 - откорректируйте, при необходимости, настройки
