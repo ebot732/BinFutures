@@ -133,7 +133,7 @@ BinFutures поставляется по принципу «как есть». 
 
 Для удобства настройки BinFutures используется телеграм бот, которого нужно сделать админом в телеграм канале. Необходимые данные телеграм бот возьмет из БД BinFutures и будет управляться через чат telegram-Botа. (https://github.com/ebot732/BinFutures/blob/main/README_telegram_uprav_bot.md)
 
-Табличка BinFutures_averaged.xls (https://github.com/ebot732/BinFutures/blob/main/table/BinFutures-19_averaged.xls) показывает приблизительные расчёты усреднений и цены ликвидации, точные данные смотрите в лк binance.
+Табличка BinFutures_averaged.xls ([https://github.com/ebot732/BinFutures/blob/main/table/BinFutures-19_averaged.xls](https://github.com/ebot732/BinFutures/raw/main/table/BinFutures-19_averaged.xls)) показывает приблизительные расчёты усреднений и цены ликвидации, точные данные смотрите в лк binance.
 
 
              Скриншоты
