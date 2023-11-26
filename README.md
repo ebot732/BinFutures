@@ -117,13 +117,13 @@ BinFutures поставляется по принципу «как есть». 
 
 Если возникла ошибка 'code: -4061' «Order’s position side does not match user’s setting», значит биржа не дает открыть позицию, так как у Вас установлен хедж вариант торговли «Hedge Mode». Боту нужен односторонний режим "One-way".
 
-Если при запуске бота на VPS выскакивает ошибка типа : "UnicodeEncodeError: 'latin-1' codec can't encode characters...", то нужно установить locale LANG=ru.
-Решение №1:
-dpkg-reconfigure locales
-Далее выбираем все ru_RU.xx, и консоль по умолчанию в en_US.UTF-8
-Решение №2:
-sudo apt-get install language-pack-ru
-sudo update-locale LANG=ru_RU.UTF-8
+Если при запуске бота на VPS выскакивает ошибка типа : "UnicodeEncodeError: 'latin-1' codec can't encode characters...", то нужно установить locale LANG=ru.   
+Решение №1:   
+dpkg-reconfigure locales    
+Далее выбираем все ru_RU.xx, и консоль по умолчанию в en_US.UTF-8    
+Решение №2:     
+sudo apt-get install language-pack-ru       
+sudo update-locale LANG=ru_RU.UTF-8      
 sudo apt-get install --reinstall locales
 
 Установка и запуск BinFutures:
