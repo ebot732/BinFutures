@@ -94,7 +94,7 @@ Trading bot for Binance exchange.
 - channelID: ID канала telegram бота для уведомлений, полученное от @userinfobot (пример: -1001656543985),
 - tguserid: ID основного user-a телеграм, полученное от @userinfobot (пример: 346549043)
 - licens_key: лицензионный ключ для продления периода работы бота, полученный от разработчика,   
-- quoteVolume24hr: минимальный 24-х часовой объем торгов в котируемой валюте (в паре ETH/USDT это USDT, в паре ETH/BTC это BTC), чтобы бот взял пару из white_list в работу.  
+- quoteVolume24hr: минимальный 24-х часовой объем торгов в котируемой валюте (в паре ETH/USDT это USDT), чтобы бот взял пару из white_list в работу.  
 
 При изменении marginType, direction, leverage убедитесь, что нет открытых позиций
 
