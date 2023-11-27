@@ -1,5 +1,6 @@
 # BinFutures
-Trading bot for Binance exchange.
+Trading bot for Binance exchange.    
+Сайт ботов: https://ebot732.github.io/
 
 Бот BinFutures.   
 Бот для торговли на Binance Futures USDⓈ-M с использованием стратегии Мартингейла (усреднения- увеличения позиции с целью улучшения средней цены входа) и выбором растущей (падающей) монеты. Может работать и в LONG и в SHORT.  
